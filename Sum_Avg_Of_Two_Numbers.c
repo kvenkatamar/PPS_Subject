@@ -11,6 +11,5 @@ int main(){
     avg = sum/3;
     printf("The sum of %d, %d and %d is %d", a, b, c, sum);
     printf("\nThe average of %d, %d and %d is %d", a, b, c, avg);
-
     return 0;
 }
